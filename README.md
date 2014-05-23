@@ -48,7 +48,7 @@ colnames(xTrain) <- c(xVector$V2)
 
 
 ## Subsetting the datasets with only the colums where the elements were related to
-# the mean or standard deviation of the values colected
+## the mean or standard deviation of the values colected
 
 
 ```r
